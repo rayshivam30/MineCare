@@ -351,7 +351,7 @@ export default function HomePage() {
               <div className="absolute inset-0 flex items-center justify-center">
                 <div className="relative w-full h-full">
                   <iframe 
-                    src="https://www.youtube.com/embed/ScY_Yb1V8AY" 
+                    src="https://youtube.com/embed/uExOzLz7EYE" 
                     title="MineIndia AI Platform Demo" 
                     className="w-full h-full" 
                     frameBorder="0" 
