@@ -356,7 +356,7 @@ export function Navigation() {
           >
             
               <img 
-                src="/minecare-logo.png" 
+                src="/minecare-logo (1).png" 
                 alt="Minecare Logo" 
                 className="w-9 h-7 object-cover"
               />
